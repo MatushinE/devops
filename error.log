@@ -1,8 +1,0 @@
-script.sh: 8: [: Illegal number: e
-script.sh: 8: [: Illegal number: e
-script.sh: 8: [: Illegal number: e
-script.sh: 8: [: Illegal number: e
-./script.sh: строка 8: [: p: ожидается целочисленное выражение
-./script.sh: строка 8: [: p: ожидается целочисленное выражение
-./script.sh: строка 8: [: : ожидается целочисленное выражение
-./script.sh: строка 8: [: : ожидается целочисленное выражение
