@@ -24,4 +24,3 @@ jobs:
     - name: Run a one-line script
       run: sh -x triangle/test_triangle.sh triangle/script.sh
 
-
