@@ -22,10 +22,6 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: |
-        ls;
-        cd triangle;
-        ls;
-        ./test_triangle.sh ./script.sh
+      run: sh -x triangle/test_triangle.sh triangle/script.sh
 
 
